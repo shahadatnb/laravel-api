@@ -1,0 +1,10 @@
+Get employee
+https://apiproject.asiancoder.com/public/api/list-employees
+get employee by id
+https://apiproject.asiancoder.com/public/api/single-employee/1	//1=id
+Add employee
+https://apiproject.asiancoder.com/public/api/add-employee //post
+Update
+https://apiproject.asiancoder.com/public/api/update-employee/1	//put
+Delete
+https://apiproject.asiancoder.com/public/api/delete-employee/1	//delete
